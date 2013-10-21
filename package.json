@@ -1,0 +1,33 @@
+{
+  "name": "grunt-css-rebase",
+  "version": "0.1.0",
+  "description": "Manage resource URLs in CSS files",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daquirm/grunt-css-rebase.git"
+  },
+  "author": "DaQuirm",
+  "license": "LGPL",
+  "readmeFilename": "README.md",
+  "gitHead": "",
+  "bugs": {
+    "url": "https://github.com/daquirm/grunt-css-rebase/issues"
+  },
+  "devDependencies": {
+    "grunt": ">=0.4.1",
+    "grunt-contrib-clean": ">=0.4.1",
+    "grunt-contrib-jshint": ">=0.6.0",
+    "grunt-contrib-nodeunit": ">=0.2.0",
+    "grunt-contrib-coffee": ">=0.7.0"
+  },
+  "dependencies": {
+    "rework": ">=0.16.0"
+  }
+}
