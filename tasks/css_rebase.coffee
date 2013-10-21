@@ -1,6 +1,6 @@
 ###
- grunt-css-paths
- https://github.com/daquirm/grunt-css-paths
+ grunt-css-rebase
+ https://github.com/DaQuirm/grunt-css-rebase
 
  Copyright (c) 2013 DaQuirm
  Licensed under the LGPL license.
